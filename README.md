@@ -5,14 +5,17 @@ RED3NG
 
 ### Useful tools
 1. **Bower**
-    - Have Bower installed
-    - Run: `bower install jquery`
+    - Prerequisites: Bower (duh!)
+    - Use it to install other libraries
+    - Run: `bower install jquery` from project root directory
     - jQuery will be installed in `app/bower_components/`
 
-A **build.sh** script is included. It can be used to minify and combine CSS and JS files into one file, respectively. In
-order to use this build script, Node and Requirejs must be installed.
+2. **build.sh**
+    - Prerequisites: Node and Requirejs adaptor for Node
+    - Use it to minify and combine CSS and JavaScript files
+    - Read [Require.js optimizer](http://requirejs.org/docs/optimization.html) for more info
 
-There is plenty of sample code included. Look through it to see how everything works together.
+There's plenty of sample code included so look through it to see how everything works together ;)
 
 # Credits
 1. [Yeoman](http://yeoman.io/) - used to build the project scaffolding.
