@@ -1,9 +1,9 @@
 RED3NG
 ======
 
-[Live example](http://tejens.com)
+### A seed for projects using Require, D3 and Angular.
 
-A seed for projects using Require, D3 and Angular.
+[Live example](http://tejens.com)
 
 To see it in action, clone this project and run it! Webserver not included.
 
