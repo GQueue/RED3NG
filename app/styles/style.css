@@ -1,0 +1,9 @@
+@import "../bower_components/bootstrap/dist/css/bootstrap.css";
+
+.light-heading {
+  font-weight: 300;
+}
+
+.visualization-container {
+  height: 500px;
+}
