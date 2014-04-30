@@ -1,14 +1,13 @@
 RED3NG
 ======
 
-### A seed for projects using Require, D3 and Angular.
-
-[Live example](http://tejens.com)
+### A seed for projects using Require, D3 and Angular. [Live example](http://tejens.com)
 
 To see it in action, clone this project and run it! Webserver not included.
 
-**Bower** can be used to install other libraries you need for your project. Libraries will be installed inside
-**app/bower_components/**
+**Bower** can be used to install other libraries you need for your project.
+ - For example: `bower install jquery`
+ - jQuery will be installed in `app/bower_components/`
 
 A **build.sh** script is included. It can be used to minify and combine CSS and JS files into one file, respectively. In
 order to use this build script, Node and Requirejs must be installed.
