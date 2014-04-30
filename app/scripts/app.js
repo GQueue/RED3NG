@@ -1,12 +1,10 @@
-var deps = [
+define([
   'angular',
   'ngRoute',
   'controllers/index',
   'directives/index',
   'd3factory/index'
-];
-
-define(deps, function(ng) {
+], function(ng) {
   return ng.module('app', [
     'ngRoute',
     'app.controllers',
