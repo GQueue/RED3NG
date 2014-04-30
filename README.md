@@ -3,8 +3,8 @@ RED3NG
 
 ### A seed for projects using Require, D3 and Angular. [Live example](http://tejens.com)
 
-### Bower
-...can be used to install other libraries you need for your project.
+### Useful tools
+1. #### Bower
  - For example: `bower install jquery`
  - jQuery will be installed in `app/bower_components/`
 
