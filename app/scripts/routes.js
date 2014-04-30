@@ -6,6 +6,6 @@ define(['app'], function(app) {
         .when('/linechart', {templateUrl: 'views/linechart.html', controller: 'MainCtrl'})
         .when('/piechart', {templateUrl: 'views/piechart.html', controller: 'MainCtrl'})
         .when('/map', {templateUrl: 'views/map.html', controller: 'MainCtrl'})
-        .otherwise({tempplateUrl: '404.html'});
+        .otherwise({templateUrl: '404.html'});
   }]);
 });
