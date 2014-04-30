@@ -16,3 +16,4 @@ There is plenty of sample code included. Look through it to see how everything w
 # Credits
 1. [Yeoman](http://yeoman.io/) - used to build the project scaffolding.
 2. [D3.js](http://d3js.org) - used to create sample visualizations for the seed project.
+3. [ANGULARJS + REQUIREJS](http://www.startersquad.com/blog/angularjs-requirejs/) - How to use Require with Angular.
