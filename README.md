@@ -20,3 +20,6 @@ There's plenty of sample code included so look through it to see how everything 
 # Credits
 1. [Yeoman](http://yeoman.io/) - used to build the project scaffolding.
 2. [ANGULARJS + REQUIREJS](http://www.startersquad.com/blog/angularjs-requirejs/) - How to use Require with Angular.
+
+# Contribute
+Think you can make it better? Please submit a pull request.
