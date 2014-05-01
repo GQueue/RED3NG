@@ -15,7 +15,7 @@ RED3NG
     - Use it to minify and combine CSS and JavaScript files
     - Read [Require.js optimizer](http://requirejs.org/docs/optimization.html) for more info
 
-There's plenty of sample code included so look through it to see how everything works together ;)
+There's plenty of sample code included so look through it to see how everything works together :wink:
 
 # Credits
 1. [D3.js](http://d3js.org) - used to create sample visualizations for the seed project.
